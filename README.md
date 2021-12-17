@@ -1,6 +1,6 @@
-##Topic
+## Topic
 
-###Overview of the project
+### Overview of the project
 
 Lousa's play "FEVER" came close to its fundraising goal in a short amount of time.Now, she wants to know how different campaigns differ in relation to their launch dated and theier fund raising goals.
 
